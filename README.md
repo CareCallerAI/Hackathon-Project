@@ -1,4 +1,4 @@
-# CareCallerAI Hackathon Project
+# Care Connect Hackathon Project
 
 Welcome to the CareCallerAI Hackathon Project!  
 This repository powers the backend for an AI-driven empathy and health companion platform, designed to provide support for elders and their families via intelligent reminders, sentiment analysis, and voice-based interactions.
